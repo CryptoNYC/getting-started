@@ -42,7 +42,15 @@ Counter Arguments/Bear Case
 * https://prestonbyrne.com/2017/11/26/the-bear-case-for-crypto-part-ii-fractional-reserve-marmot/
 
 Crypto Asset Valuations
+
 * https://docs.google.com/presentation/d/1xbAwyu6UJVe4yMdknAqTsTGJ-D_w_fW_WfZBZUYUOvc/edit#slide=id.g27d808ca9d_0_11
+
+Programming Bitcoin
+ * https://www.coursera.org/learn/cryptocurrency/
+
+Jameson Lopp's Bitcoin Resources Page
+
+* https://lopp.net/bitcoin.html
 
 Ethereum
 
