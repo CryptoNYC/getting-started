@@ -48,9 +48,10 @@ Crypto Asset Valuations
 Programming Bitcoin
  * https://www.coursera.org/learn/cryptocurrency/
 
-Jameson Lopp's Bitcoin Resources Page
+Other Resource Pages We Like
 
 * https://lopp.net/bitcoin.html
+* http://nakamotoinstitute.org/literature/
 
 Ethereum
 
